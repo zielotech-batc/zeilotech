@@ -1,2 +1,3 @@
 hello b3.txt
 hi how are you
+i am fine
